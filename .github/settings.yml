@@ -3,6 +3,6 @@ _extends: .github
 repository:
   name: github-action-release-branch-manager
   description: Easily Manage Release Branches for Long Term Support (LTS)
-  homepage: https://cloudposse.com/accelerate
+  homepage: https://itisopen.net/accelerate
   topics: ""
 
