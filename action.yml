@@ -1,6 +1,6 @@
 name: 'Release Branch Manager GitHub Action'
 description: 'Creates release branch based on tag major version'
-author: hello@cloudposse.com
+author: hello@itisopen.net
 branding:
   icon: 'file'
   color: 'white'
